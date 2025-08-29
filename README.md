@@ -66,12 +66,6 @@ The **Node.js AI Agent (backend)** is available here:
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*Add screenshots or GIFs of the wallet UI here for extra appeal.*
-
----
-
 ## 💡 Contributing
 
 We welcome contributions! Feel free to fork the repo, create a branch, and open a PR.
@@ -81,7 +75,3 @@ We welcome contributions! Feel free to fork the repo, create a branch, and open 
 ## 📜 License
 
 MIT License © 2025 PauraX
-
----
-
-Would you like me to also **design banner-style header images (vector/cover)** for this README so it looks even more professional, like a startup project?
